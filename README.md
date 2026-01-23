@@ -1,2 +1,2 @@
-# Javascript26
-from Begineer to Advance
+# Javascrip
+From Begineer to Advance
